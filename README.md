@@ -1,6 +1,7 @@
-[Source Code](https://github.com/JohansenJunias20/portofolio)  
+[**LINK**](https://github.com/JohansenJunias20/portofolio) to Source Code Repo
+  
 [https://JohansenJunias20.github.io](https://JohansenJunias20.github.io)
 
 
-Inspired by https://bruno-simon.com  
+###### <i>Inspired by https://bruno-simon.com</i>
   
