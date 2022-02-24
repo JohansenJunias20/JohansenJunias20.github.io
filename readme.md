@@ -21,8 +21,8 @@ go to [Source Code Repo](https://github.com/JohansenJunias20/portofolio)
 |**Add more _billboard projects_**  | [minecraft-clone](https://github.com/JohansenJunias20/minecraft-clone), Accounting Web, [Laughing Clown](https://github.com/JohansenJunias20/laughing-clown)|
 |**Contact Person**|IG, [Github](https://github.com/JohansenJunias20), and LinkedIn at *lobby* Area|
 |**Add more Shadows**|shadows on movable object like character(ball), johansen mesh, and hotkeys||
-|**Add Documentation**|Write readme file in every directory||
-|**Dockerize Coturn**|image coturn/coturn seems to be broken, planning to make own custom coturn image||
-|**Chat**|Add chat so players can communicate with each other||
+|**Add Documentation**|Write readme file in every directory|On Progress|
+|**Dockerize Coturn**|image coturn/coturn seems to be broken, planning to make own custom coturn image| |
+|**Chat**|Add chat so players can communicate with each other| |
 <!-- |**Night Mode**|Change theme to night when || -->
 <!-- ENDCOPY -->
