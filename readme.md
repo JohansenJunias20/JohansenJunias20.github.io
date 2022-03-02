@@ -6,8 +6,8 @@ go to [Source Code Repo](https://github.com/JohansenJunias20/portofolio)
 ###### <i>Inspired by https://bruno-simon.com</i>
 
 <!-- COPY -->
-| To do | Description   | Done    |
-| :---: | ---- | :---: |
+| To do | Description   | Done  |
+| :---: | ----          | :---: |
 |[**Map Pointer**](https://forums.rpgmakerweb.com/data/attachments/109/109950-e5cb7855bfce5950a9c055d7053c9d00.jpg)|draw [2D Arrow](https://forums.rpgmakerweb.com/data/attachments/109/109950-e5cb7855bfce5950a9c055d7053c9d00.jpg) on screen if character's position off the map  |
 |**Spawn Wave Effect** |Objects appear from underground to the surface in sequence, start from the center point (character spawn) towards outside  | ✅ |
 |[**Post Processing**](https://threejs.org/examples/#webgl_postprocessing_dof2) | [Bloom](https://threejs.org/examples/#webgl_postprocessing_unreal_bloom) on Billboards Image, [Blur](https://threejs.org/examples/#webgl_postprocessing_dof2) Camera's Edges, [Selective Outline](https://threejs.org/examples/#webgl_postprocessing_outline) on _knowledge_ |
