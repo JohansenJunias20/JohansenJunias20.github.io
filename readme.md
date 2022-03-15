@@ -7,7 +7,7 @@ go to [Source Code Repo](https://github.com/JohansenJunias20/portofolio)
 
 <!-- COPY -->
 ### Preview
-![alt text](https://github.com/JohansenJunias20/portofolio/raw/master/public/desc.png)
+![alt text](https://JohansenJunias20.github.io/desc.png)
 | To do | Description   | Done  |
 | :---: | ----          | :---: |
 |[**Map Pointer**](https://forums.rpgmakerweb.com/data/attachments/109/109950-e5cb7855bfce5950a9c055d7053c9d00.jpg)|draw [2D Arrow](https://forums.rpgmakerweb.com/data/attachments/109/109950-e5cb7855bfce5950a9c055d7053c9d00.jpg) on screen if character's position off the map  |
