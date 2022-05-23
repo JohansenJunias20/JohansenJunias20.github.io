@@ -3,7 +3,7 @@
 [https://JohansenJunias20.github.io](https://JohansenJunias20.github.io)
 
 
-###### <i>Inspired by https://bruno-simon.com</i>
+<!-- ###### <i>Inspired by https://bruno-simon.com</i> -->
 
 <!-- COPY -->
 ### Preview
