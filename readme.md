@@ -6,7 +6,7 @@
 <!-- ###### <i>Inspired by https://bruno-simon.com</i> -->
 
 <!-- COPY -->
-### Preview
+### Preview✨
 ![alt text](https://JohansenJunias20.github.io/desc.png)
 | To do | Description   | Done  |
 | :---: | ----          | :---: |
