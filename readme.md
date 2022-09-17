@@ -27,6 +27,6 @@
 |**Dockerize Coturn**|image coturn/coturn seems to be broken, planning to make own custom coturn image| ✅ |
 |**Nicknames**|Add nickname on top each player's character| ✅ |
 |**Smooth Movement P2P**|Make interpolation position between each data sent to peers| ✅ |
-|**Spotify Activity**|Show spotify profile, activity, and playlist||
+|**Spotify Activity**|Show spotify profile, activity, and playlist|In Progress|
 |**Graphics Settings**|Add options to lower the graphics quality (disable few post-processing) |✅|
 <!-- ENDCOPY -->
